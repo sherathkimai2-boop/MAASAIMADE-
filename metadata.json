@@ -1,0 +1,5 @@
+{
+  "name": "Maasai Watermark",
+  "description": "A bulk image watermarking tool with a Maasai-inspired aesthetic. Upload multiple photos and a logo to apply custom watermarks instantly.",
+  "requestFramePermissions": []
+}
